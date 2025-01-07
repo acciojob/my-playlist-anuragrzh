@@ -7,7 +7,11 @@ h1,h2{
 li{list-style-type: none;
   }
 a{text-decoration-line: none;}
-.player_one/.player_two{
+.player_one{
+	background-color: rgb(255, 255, 255);
+	padding:1px solid black; 
+	border-radius:2px;
+}.player_two{
 	background-color: rgb(255, 255, 255);
 	padding:1px solid black; 
 	border-radius:2px;
